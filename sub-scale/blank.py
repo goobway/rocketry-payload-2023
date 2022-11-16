@@ -1,0 +1,3 @@
+# Blank
+
+print("BLANK")
